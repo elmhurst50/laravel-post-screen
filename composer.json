@@ -1,0 +1,23 @@
+{
+    "name": "samjoyce777/laravel-post-screen",
+    "description": "Scans through a users input and checks for unwanted words, phrases, links, emails and telephone numbers",
+    "type": "Laravel",
+    "require": {
+        "laravel/framework": "5.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "samjoyce777\\laravel-post-screen\\": "src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sam Joyce",
+            "email": "samjoyce777@gmail.com"
+        }
+    ]
+}
